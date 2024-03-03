@@ -1,0 +1,55 @@
+Here are some straightforward questions i am explore and answer using my E-Commerce website's product order analysis dashboard:
+
+Sales Performance:
+
+How much money did we make in sales over a certain period?
+Are our sales going up or down over time, like daily, weekly, or monthly?
+Which products are making us the most money?
+Do we sell more during certain seasons or times of the year?
+
+Order Analysis:
+
+How much do people typically spend when they place an order?
+How many orders do we get each day, week, or month?
+How many items do people usually buy in one order?
+Do some orders bring in more money than others?
+
+Product Analysis:
+
+What are our best-selling products?
+How quickly do we sell out of our products?
+Are some types of products selling better than others?
+Are there any products that used to sell well but don't anymore?
+
+Customer Insights:
+
+How many different people have bought something from us?
+Where are our customers from, and what kind of people are they?
+How much money do customers usually spend over their lifetime with us?
+Do our customers tend to buy certain things more often than others?
+
+Marketing Effectiveness:
+
+Where do most of our website visitors come from before they buy something?
+How many people who visit our site end up buying something?
+Do our marketing campaigns make people buy more stuff from us?
+
+Profitability Analysis:
+
+How much money do we make from selling each product?
+Are there products that make us a lot of money, and others that don't?
+Do discounts and sales help us make more money overall?
+
+Inventory Management:
+
+How fast do we sell out of each product?
+Do we have too much of some products that aren't selling well?
+Can we trust our sales data to tell us when we need to reorder products?
+
+Customer Satisfaction and Retention:
+
+How much do our customers like the products they buy from us?
+Do customers keep coming back to buy more from us?
+Do happy customers tend to buy more from us in the future?
+
+Exploring these questions and understanding the answers using my dashboard can help to company make smart decisions to improve your E-Commerce business and keep it growing.
